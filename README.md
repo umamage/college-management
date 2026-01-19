@@ -1,4 +1,4 @@
-# Student Management Backend
+# College Management Backend
 
 ## Overview
 This project is a Java-based backend application that performs CRUD (Create, Read, Update, Delete) operations for a student management system.  
